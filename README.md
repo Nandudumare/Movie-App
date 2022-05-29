@@ -28,7 +28,6 @@ ___
 * You can Search the Movie Name.
 * you can see the Details of that particular movie. 
 * you can see the trending movies as well as latest movies.
-* Debouncing
 
 
 ### Screenshots
